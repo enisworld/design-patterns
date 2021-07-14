@@ -9,7 +9,6 @@ Design Patterns created in this repository are below;
   1) Creational Design Patterns;
       - Builder Design Pattern
   2) Behavioral Design Patterns;              
-
-  3) Behavioral Design Patterns; 
-            
-            
+      - 
+  3) Structural Design Patterns; 
+      -       
