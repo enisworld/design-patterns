@@ -1,1 +1,1 @@
-Singleton Des,gn Pattern
+Singleton Design Pattern
