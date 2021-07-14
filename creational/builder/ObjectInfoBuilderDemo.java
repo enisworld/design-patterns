@@ -18,14 +18,14 @@ public class EstateAgent {
 														.build();
     
     
-    ObjectInfo objectInfo2 = objectInfoBuilder.setObjectId("")
+    		ObjectInfo objectInfo2 = objectInfoBuilder.setObjectId("")
 														.setObjectName(""))
 														.setObjectType("")
 														.setObjectColor("")
 														.setAngle(0.0)
 														.build();
     
-    ObjectInfo objectInfo3 = objectInfoBuilder.setX(0.0)
+   		ObjectInfo objectInfo3 = objectInfoBuilder.setX(0.0)
 														.setY(0.0)
 														.setZ(0.0)
 														.setWidth(0.0)
@@ -34,13 +34,13 @@ public class EstateAgent {
 														.setAngle(0.0)
 														.build();
     
-    
-    System.out.println(objectInfo.print());
-    System.out.println("******************************************");
-    System.out.println(objectInfo2.print());
-    System.out.println("******************************************");
-    System.out.println(objectInfo3.print());
-		house.printHouse();
+
+		System.out.println(objectInfo.print());
+		System.out.println("******************************************");
+		System.out.println(objectInfo2.print());
+		System.out.println("******************************************");
+		System.out.println(objectInfo3.print());
+
 
 	}
 
