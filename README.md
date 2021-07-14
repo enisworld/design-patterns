@@ -6,9 +6,11 @@ There are 3 types of design patterns;
    3) Structural Design Patterns
 
 Design Patterns created in this repository are below;
-  1) Creational Design Patterns;
+  1) Creational Design Patterns;  
       - Builder Design Pattern
-  2) Behavioral Design Patterns;              
+  2) Behavioral Design Patterns;
       - 
   3) Structural Design Patterns; 
-      -       
+      - 
+     
+
